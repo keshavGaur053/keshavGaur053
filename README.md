@@ -26,7 +26,7 @@ I started my journey in the tech world with full stack web development. I learne
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
 
-<p align="left"> <img style=" color: rgb(255, 255, 255);
+<p align="center"> <img style=" color: rgb(255, 255, 255);
   background: #111" src="https://komarev.com/ghpvc/?username=keshavGaur053&label=Profile%20views&color=0e75b6&style=flat" alt="keshavGaur053" /> </p>
   
   
