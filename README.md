@@ -8,9 +8,11 @@ I started my journey in the tech world with full stack web development. I learne
 
 * 🌍  I'm based in Bangalore
 * ✉️  You can contact me at [keshavgaur053@gmail.com](mailto:keshavgaur053@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I’m currently learning Full-Stack Web Development
+* 🔭  I’m currently working on Mern Stack
 * 🤝  I'm open to collaborating on Frontend and Backend projects
-* 📄  Know about my experiences https://drive.google.com/file/d/1X72Rm5o6xXdb2Gr7ACmbTK5f4rBVZ-JA/view?usp=sharing
+* 📄  Know about my experiences/Resume https://drive.google.com/file/d/1X72Rm5o6xXdb2Gr7ACmbTK5f4rBVZ-JA/view?usp=sharing
+* 📝  I regularly write articles on https://medium.com/@keshavgaur053
 
 ### Skills
 
@@ -43,7 +45,8 @@ I started my journey in the tech world with full stack web development. I learne
 
 <a href="http://www.github.com/keshavGaur053"><img src="https://github-readme-streak-stats.herokuapp.com/?user=keshavGaur053&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/keshavGaur053"><img src="https://activity-graph.herokuapp.com/graph?username=keshavGaur053&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!-- <a> href="http://www.github.com/keshavGaur053"><img src="https://activity-graph.herokuapp.com/graph?username=keshavGaur053&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> 
+
 
 <a href="https://github.com/keshavGaur053" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavGaur053&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
