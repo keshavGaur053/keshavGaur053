@@ -10,6 +10,7 @@ I started my journey in the tech world with full stack web development. I learne
 * ✉️  You can contact me at [keshavgaur053@gmail.com](mailto:keshavgaur053@gmail.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Frontend and Backend projects
+* 📄  Know about my experiences https://drive.google.com/file/d/1X72Rm5o6xXdb2Gr7ACmbTK5f4rBVZ-JA/view?usp=sharing
 
 ### Skills
 
