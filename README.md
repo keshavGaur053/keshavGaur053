@@ -6,7 +6,7 @@ Full Stack Web Developer
 
 I started my journey in the tech world with full stack web development. I learned MERN Stack, data structures and algorithms. Now, having experienced this intensive and immersive programming with several projects, I am looking forward to broad development experience and hands-on technical experience in a challenging role as a full stack web developer. Apart from coding, I love listening songs, interacting with new people, and evening walks,playing outdoor games like badminton.
 
-* 🌍  I'm based in Bangalore
+* 🌍  I'm based in Noida
 * ✉️  You can contact me at [keshavgaur053@gmail.com](mailto:keshavgaur053@gmail.com)
 * 🧠  I’m currently learning Full-Stack Web Development
 * 🔭  I’m currently working on Mern Stack
